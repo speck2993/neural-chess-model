@@ -80,11 +80,7 @@ The model trains on chess positions from PGN files that have been preprocessed i
 - Weakness detection and targeted training position generation
 - Integration with chess.com and lichess.org for game analysis
 
-## License
+## Acknowledgements
 
-[MIT License](LICENSE)
-
-## Acknowledgments
-
-- This project draws inspiration from the [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) project
-- Training data derived from the Leela self-play games
+ - Initially tested on self-play games from the Lc0 project
+ - I don't know what sort of license that commits me to, if any
