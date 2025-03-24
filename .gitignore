@@ -1,0 +1,56 @@
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Model checkpoints and training artifacts
+checkpoints/
+runs/
+logs/
+*.pt
+*.pth
+*.ckpt
+
+# Data directories
+data/
+pgns-run1/
+pgns-run1-fischer/
+processed-pgns/
+condensed-pgns/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Environment files
+.env
+.venv
+venv/
+ENV/
+
+# OS specific files
+.DS_Store
+Thumbs.db
